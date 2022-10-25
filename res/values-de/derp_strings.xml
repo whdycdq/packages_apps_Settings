@@ -794,4 +794,7 @@
     <!-- Ambient wake toggles -->
     <string name="doze_gesture_ambient_title">Ambient anzeigen</string>
     <string name="doze_gesture_ambient_summary">Inaktivitätsdisplay anzeigen, anstatt den Bildschirm voll aufzuwecken</string>
+
+    <!-- Advanced sound settings -->
+    <string name="sound_settings_advanced_title">Erweiterte Einstellungen</string>
 </resources>
