@@ -735,6 +735,7 @@
     <string name="cleartext_network_policy_summary">Blockiert den gesamten Nicht-TLS-Netzwerkverkehr. Erfordert eine private DNS-Konfiguration. Hinweis: Ohne ausdrückliche Ausnahmen funktionieren Apps, die Klartextverkehr verwenden, möglicherweise nicht</string>
 
     <!-- Other Fragment -->
+    <string name="miscellaneous_settings">Verschiedenes</string>
     <string name="other_settings">Weitere Optionen</string>
     <string name="quick_settings">Schnelleinstellungen</string>
 </resources>
